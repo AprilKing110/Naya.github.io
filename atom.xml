@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Naya.github.io</id>
     <title>Gridea</title>
-    <updated>2021-02-25T14:17:15.522Z</updated>
+    <updated>2021-02-25T14:18:56.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Naya.github.io"/>
     <link rel="self" href="https://Naya.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://Naya.github.io/images/avatar.png</logo>
     <icon>https://Naya.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[色的法国]]></title>
+        <id>https://Naya.github.io/post/se-de-fa-guo/</id>
+        <link href="https://Naya.github.io/post/se-de-fa-guo/">
+        </link>
+        <updated>2021-02-25T14:17:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>AprilKing 的后宫<br>
+😙😘🙁☹️😮</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>AprilKing 的后宫<br>
+😙😘🙁☹️😮</p>
+<!-- more -->
+<p>阿道夫阿斯蒂芬</p>
+<!-- more -->
+<p>阿斯蒂芬会让他er'g'fergf</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Naya.github.io/post/hello-gridea/</id>
